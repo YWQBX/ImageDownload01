@@ -21,7 +21,7 @@ h2, p {
     margin-top: 0;
 }
 
-a:hover, a.active { color: #309AFD; }
+a:hover, a.active { color: #0a9aa8; }
 
 .tm-btn {
     padding: 10px 40px;
@@ -55,7 +55,7 @@ div { box-sizing: border-box;}
 .tm-mb-80 { margin-bottom: 80px; }
 .tm-text-center { text-align: center; }
 .tm-text-right { text-align: right; }
-.tm-color-primary { color: #309AFD; }
+.tm-color-primary { color: #0a9aa8; }
 .tm-color-gray { color: #666768; }
 .tm-color-gray-2 { color: #98999A; }
 .tm-color-light-gray { color: #9E9FA0; }
@@ -119,7 +119,7 @@ a {
     width: 200px;
     height: 200px;
     padding: 30px;
-    border: 1px solid #D2D3D4;
+    border: 1px solid #848586;
     border-radius: 5%;
     color: #999; 
     box-sizing: border-box;
@@ -133,7 +133,7 @@ a {
 
 .tm-nav-link i {
     margin-top: 30px;
-    color: #309AFD;
+    color: #848586;
 }
 
 .tm-main-nav ul {
