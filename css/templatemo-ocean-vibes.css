@@ -13,6 +13,7 @@ body {
     font-size: 19px;
     line-height: 1.8em;
     overflow-x: hidden;
+    background-color: #272727;
 }
 
 p, span, em, a, address { color: #848586; }
@@ -119,13 +120,15 @@ a {
     height: 200px;
     padding: 30px;
     border: 1px solid #D2D3D4;
+    border-radius: 5%;
     color: #999; 
     box-sizing: border-box;
 }
 
 .tm-nav-link:hover,
 .tm-nav-link.active {
-    color: #309AFD;
+    color: #000;
+    background-color: #0a9aa8;
 }
 
 .tm-nav-link i {
